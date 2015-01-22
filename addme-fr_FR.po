@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 01:05+0100\n"
+"PO-Revision-Date: 2015-01-14 01:05+0100\n"
+"Last-Translator: Ph. Gras <ph.gras@freenet.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SearchPath-0: /Users/apple/Desktop/OVH/__bh/2freehosting/addme\n"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:175
+#, php-format
+msgid "Add your extra content #%d or block of scripts here, define above where it must be displayed against the content and the order of its display compared to the other. Priority is usually set to 10. If you enter a little number, you may see strange things in the post content, but you can defer your display easily by selecting greater numbers. Have fun!"
+msgstr "Ajoutez votre supplément n°%d ici, script ou formulaire. Définissez auparavant où et comment il doit être affiché par rapport au contenu. La priorité est normalement fixée à 10. Avec un nombre entier inférieur, vous pouvez obtenir des trucs étranges dans le contenu de l’article, mais vous pouvez en différer facilement l’affichage en saisissant un plus grand nombre. Amusez-vous bien !"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:344
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:346
+msgid "SHOW"
+msgstr "OUVRIR"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:346
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:441
+msgid "HIDE"
+msgstr "CACHER"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:358
+msgid "Add Your Stuff in Post Content Now!"
+msgstr "Ajoutez plein de trucs à vos articles ici !"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:359
+msgid "Enjoy this plugin?"
+msgstr "Cette extension vous a plu ?"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:372
+msgid "Display option:"
+msgstr "Option d’affichage:"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:375
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:377
+msgid "don't display it!"
+msgstr "Ne pas afficher !"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:380
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:382
+msgid "before content"
+msgstr "avant le contenu"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:385
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:387
+msgid "after the content"
+msgstr "après le contenu"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:390
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:392
+msgid "around the post"
+msgstr "autour du contenu"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:395
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:397
+msgid "before the last §"
+msgstr "avant le dernier $"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:400
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:402
+msgid "under the first §"
+msgstr "sous le premier $"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:405
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:407
+msgid "random in post"
+msgstr "affichage aléatoire"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:410
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:412
+msgid "wrap inner text"
+msgstr "à l’intérieur, 2 x"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:415
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:417
+msgid "upon the video"
+msgstr "avant une vidéo"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:420
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:422
+msgid "under the video"
+msgstr "après une vidéo"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:425
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:427
+msgid "wrap the video"
+msgstr "autour de la vidéo"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:431
+msgid "Priority:"
+msgstr "Priorité:"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:432
+msgid "Be carefull to enter a number between 1 && 9999!"
+msgstr "Attention à saisir un nombre entre 1 && 9999 !"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:434
+msgid "Something to display:"
+msgstr "Quelque chose à afficher :"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:438
+msgid "To exclude:"
+msgstr "À exclure :"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:439
+msgid "Term ID:"
+msgstr "Identifiant :"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:440
+msgid "Term title:"
+msgstr "Titre du type :"
+

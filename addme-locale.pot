@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-19 23:14+0100\n"
+"PO-Revision-Date: 2015-01-19 23:14+0100\n"
+"Last-Translator: Ph. Gras <ph.gras@freenet.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/apple/Desktop/OVH/__bh/2freehosting/addme\n"
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:170
+#, php-format
+msgid "Add your extra content #%d or block of scripts here, define above where it must be displayed against the content and the order of its display compared to the other. Priority is usually set to 10. If you enter a little number, you may see strange things in the post content, but you can defer your display easily by selecting greater numbers. Have fun!"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:342
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:344
+msgid "SHOW"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:344
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:439
+msgid "HIDE"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:356
+msgid "Add Your Stuff in Post Content Now!"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:357
+msgid "Enjoy this plugin?"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:370
+msgid "Display option:"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:373
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:375
+msgid "don't display it!"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:378
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:380
+msgid "before content"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:383
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:385
+msgid "after the content"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:388
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:390
+msgid "around the post"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:393
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:395
+msgid "before the last §"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:398
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:400
+msgid "under the first §"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:403
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:405
+msgid "random in post"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:408
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:410
+msgid "wrap inner text"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:413
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:415
+msgid "upon the video"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:418
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:420
+msgid "under the video"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:423
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:425
+msgid "wrap the video"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:429
+msgid "Priority:"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:430
+msgid "Be carefull to enter a number between 1 && 9999!"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:432
+msgid "Something to display:"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:436
+msgid "To exclude:"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:437
+msgid "Term ID:"
+msgstr ""
+
+#: /Users/apple/Desktop/OVH/__bh/2freehosting/addme/adder.php:438
+msgid "Term title:"
+msgstr ""
+
